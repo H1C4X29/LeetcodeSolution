@@ -1,4 +1,4 @@
-package solution.dynamicprogramming;
+package solution.dynamicProgramming;
 
 public class Solution70 {
     /**

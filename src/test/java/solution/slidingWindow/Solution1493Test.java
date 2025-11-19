@@ -1,4 +1,4 @@
-package solution.slidingwindow;
+package solution.slidingWindow;
 
 import org.junit.Assert;
 import org.junit.Test;

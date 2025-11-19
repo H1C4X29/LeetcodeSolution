@@ -1,8 +1,7 @@
-package solution.dynamicprogramming;
+package solution.dynamicProgramming;
 
 import org.junit.Assert;
 import org.junit.Test;
-import solution.slidingwindow.Solution209;
 
 public class Solution746Test {
 

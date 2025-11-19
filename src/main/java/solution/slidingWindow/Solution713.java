@@ -1,4 +1,4 @@
-package solution.slidingwindow;
+package solution.slidingWindow;
 
 public class Solution713 {
     /**
