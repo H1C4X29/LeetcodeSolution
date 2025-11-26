@@ -1,4 +1,4 @@
-package solution.hot100.graph;
+package solution.hot100.graph.dfs;
 
 /**
  * 200. 岛屿数量

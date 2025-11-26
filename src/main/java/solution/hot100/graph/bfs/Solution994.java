@@ -1,6 +1,4 @@
-package solution.hot100.graph;
-
-import sun.util.resources.cldr.nus.CalendarData_nus_SD;
+package solution.hot100.graph.bfs;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,6 +16,7 @@ import java.util.List;
  * 返回 直到单元格中没有新鲜橘子为止所必须经过的最小分钟数。如果不可能，返回 -1 。
  */
 public class Solution994 {
+
     private static final int[][] DIREACTION = {{-1,0},{1,0},{0,1},{0,-1}};
 
     public int orangesRotting(int[][] grid){
