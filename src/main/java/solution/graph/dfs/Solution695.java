@@ -1,4 +1,4 @@
-package solution.graph;
+package solution.graph.dfs;
 
 /**
  * 695. 岛屿的最大面积
